@@ -23,6 +23,7 @@ Android-Design-Patterns
 | ViewHolder Pattern      | ListView Optimization
 | Multithreading Pattern  | UI thread Performance
 | Layout-Hierachy Pattern | Layout Performance
+| Tag Pattern           | Re-usable component
 
 ### User Interface Patterns in Android (Kitkat or lower version):
 
