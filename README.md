@@ -13,7 +13,7 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 | MVC Pattern           | ListActivity            | |
 | MVVM Pattern          |                         |
 | Facade Pattern        | Android Media Framework |
-| Bridge Pattern        | AdapterView / Adapter   |
+| Bridge Pattern        | AdapterView/Adapter     |
 | Factory Method        | Builder                 |
 | Template Pattern      |                         |
 | Decorator Pattern     |                         |
