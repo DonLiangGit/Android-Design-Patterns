@@ -1,6 +1,9 @@
 Android-Design-Patterns
 =======================
 
+Welcome to `Commit` changes directly, or just tell me [Here](https://github.com/DonLiangGit/Android-Design-Patterns/issues/1).
+Hope you guys could bring or get something related to Android Design Pattern when developing Android Application.
+
 ### Gang of Four Patterns in Android:
 | Name                  | Example                 | Link  |
 | -------------         |:-------------:          | -----:|
