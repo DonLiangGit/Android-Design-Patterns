@@ -7,7 +7,7 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 ### Gang of Four Patterns in Android:
 | Name                  | Example                 | Link  |
 | -------------         |:-------------:          | -----:|
-| Composite Pattern     | View/ViewGroup          | |
+| Composite Pattern     | View/ViewGroup          | [Basic](http://javapapers.com/design-patterns/composite-design-pattern/)|
 | Adapter Pattern       | Adapter in ListView     | |
 | Observer Pattern      | Listener in Button      | |
 | MVC Pattern           | ListActivity            | |
