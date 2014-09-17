@@ -18,9 +18,11 @@ Android-Design-Patterns
 
 
 ### Unique Patterns in Android:
-* ViewHolder Pattern (Example: ListView Optimization)
-* Multithreading Pattern
-
+| Name                    | Use     |
+| ----                    | :----: |
+| ViewHolder Pattern      | ListView Optimization
+| Multithreading Pattern  | UI thread Performance
+| Layout-Hierachy Pattern | Layout Performance
 
 ### User Interface Patterns in Android (Kitkat or lower version):
-* Layout Hierachy Pattern (For all Android Version)
+
