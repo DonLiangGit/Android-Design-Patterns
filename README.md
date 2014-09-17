@@ -8,12 +8,13 @@ Android-Design-Patterns
 | Adapter Pattern       | Adapter in ListView     | |
 | Observer Pattern      | Listener in Button      | |
 | MVC Pattern           | ListActivity            | |
-| MVVM Pattern          | 
+| MVVM Pattern          |                         |
 | Facade Pattern        | Android Media Framework |
 | Bridge Pattern        | AdapterView/ Adapter    |
 | Factory Method        | Builder                 |
-| Template Pattern      |
-| Decorator Pattern     |
+| Template Pattern      |                         |
+| Decorator Pattern     |                         |
+| Singleton Pattern     | InputMethodManager      |
 
 
 ### Unique Patterns in Android:
