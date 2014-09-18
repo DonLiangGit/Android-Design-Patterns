@@ -21,12 +21,12 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 
 
 ### Unique Patterns in Android:
-| Name                    | Use     |
-| ----                    | :----: |
-| ViewHolder Pattern      | ListView Optimization
-| Multithreading Pattern  | UI thread Performance
-| Layout-Hierachy Pattern | Layout Performance
-| Tag Pattern           | Re-usable component
+| Name                    | Type              | Use                   | Link  |
+| ----                    | ----              | :----:                | -----:|
+| ViewHolder Pattern      | Layout Performance| ListView Optimization |
+| Multithreading Pattern  | Layout Performance| UI thread Performance |
+| Layout-Hierachy Pattern | Layout Performance| XML Layout            |
+| Tag Pattern             | Layout Performance| Re-usable component   |
 
 ### User Interface Patterns in Android (Kitkat or lower version):
 
