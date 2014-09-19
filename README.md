@@ -21,10 +21,10 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 
 
 ### Unique Patterns in Android:
-| Name                    | Type              | Use                   | Link  | Advanced  |
-| ----                    | ----              | :----:                | -----:|:------:   |
+| Name                    | Type              | Use                   | Link  | Advanced Link   |
+| ----                    | ----              | :----:                | -----:|:------:         |
 | ViewHolder Pattern      | Layout Performance| ListView Optimization |[Basic] (http://developer.android.com/training/improving-layouts/smooth-scrolling.html)
-| Multithreading Pattern  | Layout Performance| UI thread Performance |[Basic] (http://developer.android.com/training/improving-layouts/smooth-scrolling.html)|[Adv. 1](http://www.androiddesignpatterns.com/2014/01/thread-scheduling-in-android.html)
+| Multithreading Pattern  | Layout Performance| UI thread Performance |[Basic] (http://developer.android.com/training/improving-layouts/smooth-scrolling.html)|[.1](http://www.androiddesignpatterns.com/2014/01/thread-scheduling-in-android.html)
 | Layout-Hierachy Pattern | Layout Performance| XML Layout            |[Basic] (http://developer.android.com/training/improving-layouts/optimizing-layout.html)
 | Viewstub Pattern        | Layout Performance| XML Layout/Reduce Mem |[Basic] (http://developer.android.com/training/improving-layouts/loading-ondemand.html)
 | Tag Pattern             | Layout Performance| Re-usable components  |[Basic] (http://developer.android.com/training/improving-layouts/reusing-layouts.html)
