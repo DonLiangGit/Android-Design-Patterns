@@ -14,7 +14,7 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 | MVVM Pattern          |                         |
 | Facade Pattern        | Android Media Framework |
 | Bridge Pattern        | AdapterView/Adapter     |
-| Factory Method        | Builder                 |
+| Factory Method        | Builder                 | [Basic](http://javapapers.com/design-patterns/factory-method-pattern/)
 | Template Pattern      |                         |
 | Decorator Pattern     |                         |
 | Singleton Pattern     | InputMethodManager      |
