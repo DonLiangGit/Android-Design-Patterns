@@ -5,8 +5,8 @@ Welcome to `Commit` changes directly, or just tell me [Here](https://github.com/
 Hope you guys could bring or get something related to Android Design Pattern when developing Android Application.
 
 ### Gang of Four Patterns in Android:
-| Name                  | Example                 | Link  |
-| -------------         |:-------------:          | -----:|
+| Name                  | Example                 | Link  | Details |
+| -------------         |:-------------:          | -----:| -----:
 | Composite Pattern     | View/ViewGroup          | [Basic](http://javapapers.com/design-patterns/composite-design-pattern/)|
 | Adapter Pattern       | Adapter in ListView     | [Basic](http://javapapers.com/design-patterns/adapter-pattern/)|
 | Observer Pattern      | Listener in Button      | |
