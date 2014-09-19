@@ -8,7 +8,7 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 | Name                  | Example                 | Link  |
 | -------------         |:-------------:          | -----:|
 | Composite Pattern     | View/ViewGroup          | [Basic](http://javapapers.com/design-patterns/composite-design-pattern/)|
-| Adapter Pattern       | Adapter in ListView     | |
+| Adapter Pattern       | Adapter in ListView     | [Basic](http://javapapers.com/design-patterns/adapter-pattern/)|
 | Observer Pattern      | Listener in Button      | |
 | MVC Pattern           | ListActivity            | |
 | MVVM Pattern          |                         |
