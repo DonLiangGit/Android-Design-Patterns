@@ -9,7 +9,7 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 | -------------         |:-------------:          | -----:| -----:
 | Composite Pattern     | View/ViewGroup          | [Basic](http://javapapers.com/design-patterns/composite-design-pattern/)|
 | Adapter Pattern       | Adapter in ListView     | [Basic](http://javapapers.com/design-patterns/adapter-pattern/)|
-| Observer Pattern      | Listener in Button      | |
+| Observer Pattern      | Listener in Button      | [Basic](http://shmilyaw-hotmail-com.iteye.com/blog/1557835)|
 | MVC Pattern           | ListActivity            | |
 | MVVM Pattern          |                         |
 | Facade Pattern        | Android Media Framework |
