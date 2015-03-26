@@ -6,6 +6,7 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 
 ### MV* for more complete Android Apps.
 MVP Architecture Introduction [CN Version](http://www.360doc.com/content/10/0225/18/867320_16805936.shtml)
+MVP Advantage [CN Version](http://www.360doc.com/content/12/0405/13/8101845_201083284.shtml)
 - View <-> Presenter: using [MEDIATOR](http://www.tutorialspoint.com/design_pattern/mediator_pattern.htm) pattern to loose the coupling between classes.
 - Presenter -> Model: using [COMMAND](http://www.tutorialspoint.com/design_pattern/command_pattern.htm) pattern to decide the data manipulation on objects.
 
