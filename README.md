@@ -29,5 +29,4 @@ Hope you guys could bring or get something related to Android Design Pattern whe
 | Viewstub Pattern        | Layout Performance| XML Layout/Reduce Mem |[Basic] (http://developer.android.com/training/improving-layouts/loading-ondemand.html)
 | Tag Pattern             | Layout Performance| Re-usable components  |[Basic] (http://developer.android.com/training/improving-layouts/reusing-layouts.html)
 
-### UI Patterns in Android (Kitkat or lower version):
 
