@@ -4,7 +4,7 @@ Android-Design-Patterns
 Welcome to `Commit` changes directly, or just tell me [Here](https://github.com/DonLiangGit/Android-Design-Patterns/issues/1).
 Hope you guys could bring or get something related to Android Design Pattern when developing Android Application.
 
-### MV* for more complete Android App.
+### MV* for more complete Android Apps.
 MVP Architecture Introduction [CN Version](http://www.360doc.com/content/10/0225/18/867320_16805936.shtml)
 
 ### Gang of Four Patterns in Android:
